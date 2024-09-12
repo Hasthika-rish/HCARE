@@ -168,7 +168,8 @@ footer{
     height: auto;
     width: 100%;
     font-size: large;
-    font-family: fantasy;
+    font-family: 'Arial', sans-serif;;
+    
     
     padding-top:20px;
     padding-bottom: 20px;
